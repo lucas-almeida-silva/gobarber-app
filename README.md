@@ -6,6 +6,7 @@
 
 * [About](#information_source-about)
 * [Technologies](#computer-technologies)
+* [Requirements](#page_with_curl-requirements)
 * [Features](#rocket-features)
 * [How to run](#seedling-how-to-run)
 * [License](#pencil-license)
