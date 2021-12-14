@@ -19,6 +19,13 @@ GoBarber is a application to make appointments with hairdressers or barbers. The
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+# :page_with_curl: Requirements
+
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/) (optional)
+- [Git](https://git-scm.com/) (to clone the repository)
+- [Android Studio](https://developer.android.com/studio) or [Xcode](https://developer.apple.com/xcode/) (emulator)
+
 # :rocket: Features
 
 ### Users
